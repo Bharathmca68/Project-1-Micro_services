@@ -1,0 +1,9 @@
+/client/node_modules
+/post/node_modules
+/post/.env
+/event-bus/node_modules
+/event-bus/.env
+/queary/node_modules
+/queary/.env
+/comments/node_modules
+/comments/.env
