@@ -7,3 +7,5 @@
 /queary/.env
 /comments/node_modules
 /comments/.env
+/moderationCMTs/node_modules
+/moderationCMTs/.env
